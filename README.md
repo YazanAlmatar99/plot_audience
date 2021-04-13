@@ -22,3 +22,6 @@ git clone https://github.com/YazanAlmatar99/plot_audience.git
 ```
 cd plot_audience && python3 code_file.py
 ```
+
+#### Screen Shot
+<img src="screenshot.png" width = "500"/>
